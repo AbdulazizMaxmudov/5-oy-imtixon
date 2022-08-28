@@ -1,0 +1,72 @@
+.my-accblock {
+  display: flex;
+
+}
+.my-accimgblock {
+  width: 30%;
+}
+.my-accinputblock {
+  padding-bottom: 40px;
+   border-bottom: 3px solid #F3F6F9;
+}
+.my-accinputblock .input-block {
+  display: block;
+  width: 708px;
+  height: 44px;
+  background: #F3F6F9;
+  border-radius: 4px;
+ 
+}
+.my-accinputblock p {
+  font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+color: #464E5F;
+margin-bottom: 7px;
+}
+.inline-div {
+  display: flex;
+  width: 700px;
+justify-content: space-between
+;}
+.input-inline {
+width: 340px;
+height: 44px;
+left: 366.98px;
+top: 394px;
+background: #F3F6F9;
+border-radius: 4px;
+}
+.my-accimgblock {
+  margin: 50px;
+}
+.acc-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  overflow: hidden;
+}
+.acc-img img{
+width: 100%;
+height: 100%;
+} 
+.acc-camera {
+  margin-top: -20px;
+  width: 200px;
+  margin-left: 120px;
+ 
+}
+.acc-label {
+   background: #F3F6F9;
+   overflow: hidden;
+   border-radius: 5px;
+}
+.acc-btn {
+  width: 142px;
+  height: 43px;
+  background: #152540;
+  border-radius: 4px;
+  color: #F3F6F9;
+  margin-top: 50px;
+  margin-left: 1000px;
+}

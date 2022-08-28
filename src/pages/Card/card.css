@@ -1,0 +1,38 @@
+.authors-list {
+  display: flex;
+  
+  flex-wrap: wrap;
+}
+.list {
+  max-width: 175px;
+  width: 100%;
+  height: 235px;
+  border-radius: 15px;
+  text-align: center;
+  overflow: hidden;
+  margin: 30px;
+  background: #464646;
+
+}
+.link h2 {
+  margin-top: 10px;
+  font-size: 20px;
+line-height: 20px;
+color: #C9AC8C;
+}
+.link p span {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  color: #C9AC8C;
+}
+
+.imgblock {
+  background: #191919;
+  width: 175px;
+
+}
+.imgblock img {
+  width: 100%;
+  height: 132px;
+}

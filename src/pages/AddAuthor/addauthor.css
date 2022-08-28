@@ -1,0 +1,84 @@
+.addauthor-block {
+  display: flex;
+}
+.addauthor-imgblock {
+  width: 50%;
+  background: #E5E5E5;
+
+}
+.author-img {
+  width: 350px;
+  margin-top: 126px;
+  margin-left: 200px;
+  text-align: center;
+}
+.author-img img {
+  width: 100%;
+}
+.author-img h1 {
+  font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 34px;
+margin-top: 25px;
+}
+.add-file {
+  
+background: #152540;
+border-radius: 99px;
+width: 328px;
+margin: 0 auto;
+text-align: center;
+margin-top: 40px;
+margin-bottom: 130px;
+}
+.add-label {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 36px;
+  width: 288px;
+  color: #FFFFFF;
+  margin: 0 auto;
+  padding: auto;
+}
+.visually-hidden {
+  text-align: center;
+  margin: 0 auto;
+}
+.author-inputblcok {
+  margin: 0 auto;
+  margin-top: 31px;
+}
+.author-inputblcok h1 {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 51px;
+  color: #000000;
+}
+.author-input {
+  display: block;
+  width: 330px;
+  height: 46px;
+  background: #FFFFFF;
+  border: 1px solid #B4B4BB;
+  border-radius: 10px;
+  margin-top: 16px;
+  padding: 16px;
+
+
+  }
+  .bio {
+    height: 82px;
+  }
+.author-submitbtn {
+  margin-top: 50px;
+  background: #152540;
+  border-radius: 99px;
+  width: 328px;
+  height: 46px;
+  font-size: 18px;
+  line-height: 36px;
+  text-align: center;
+  color: #FFFFFF;
+  }

@@ -1,0 +1,19 @@
+.Security {
+  width: 720px;
+  margin: 0 auto;
+}
+.input-block {
+  width: 708px;
+  height: 44px;
+  background: #F3F6F9;
+  border-radius: 4px;
+}
+.set-btn {
+  width: 142px;
+  height: 43px;
+  background: #152540;
+  border-radius: 4px;
+  color: #F3F6F9;
+  margin-top: 50px;
+  margin-left: 500px;
+}

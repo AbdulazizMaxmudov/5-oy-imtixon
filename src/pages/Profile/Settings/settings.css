@@ -1,0 +1,27 @@
+.settings {
+  width: 500px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.settings h1 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #212121;
+}
+.settings p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 20px;
+  color: #464E5F;
+}
+.settings select {
+  width: 708px;
+height: 44px;
+background: #F3F6F9;
+border-radius: 4px;
+}

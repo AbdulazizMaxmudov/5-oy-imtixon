@@ -1,0 +1,112 @@
+.book-single {
+  display: flex;
+}
+.book-img {
+  margin: 57px;
+  width: 519px;
+  height: 800px;
+}
+.img-block {
+  width: 500px;
+}
+.img-block img {
+  width: 100%;
+}
+.book-text {
+  margin: 57px;
+}
+.book-text h2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 53px;
+  color: #C9AC8C;
+}
+.book-text h4 {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  color: rgba(255, 255, 255, 0.6);
+  margin-top: 20px;
+}
+.book-text h4 span {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+.single {
+  background: #191919;
+}
+ .book-toliq {
+  display: flex;
+ }
+.book-toliq h3 {
+  margin-top: 40px;
+  margin-bottom: 45px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  color: #C9AC8C;
+}
+.book-toliq hr {
+  color: #FFFFFF;
+  height: 10px;
+  background: #FFFFFF;
+}
+.title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 144.4%;
+  color: rgba(255, 255, 255, 0.8);
+}
+.type {
+  display: flex;
+  
+}
+.type div{
+width: 100px;
+text-align: center;
+margin-left: 20px;
+}
+.type img{
+  
+}
+.type h3{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  color: #FFFFFF;
+  margin-top: 10px;
+  background: 8px;
+}
+.turlari {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+}
+.type h4{
+  font-size: 16px;
+  line-height: 16px;
+  color: rgba(255, 255, 255, 0.6);
+}
+.qoshish {
+  width: 200px;
+  height: 48px;
+  background: #C9AC8C;
+  color: #FFFFFF;
+  border: none;
+
+}
+.typeof h3     {
+  font-family: 'Steinbeck';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  color: #C9AC8C;
+  margin-top: 46px;
+  margin-bottom: 30px;
+}

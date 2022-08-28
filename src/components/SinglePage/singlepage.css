@@ -1,0 +1,129 @@
+.single {
+  background: #191919;
+  padding-bottom: 50px;
+  font-family: 'Poppins', sans-serif;
+}
+.single-block {
+  display: flex;
+}
+.single-image-block {
+  width: 600px;
+  
+}
+.single-img {
+  border-radius: 40px;
+  overflow: hidden;
+  width: 580px;
+  height: 600px;
+}
+.single-img img {
+  width: 100%;
+}
+.img-text {
+  display: flex;
+  width: 400px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+.img-text p , span {
+  font-size: 12px;
+  line-height: 144.4%;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0 auto;
+}
+.img-text h3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 39px;
+  line-height: 144.4%;
+  color: #C9AC8C;
+  margin: 0 auto;
+}
+.single-about {
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.singlelorems {
+  width: 670px;
+}
+.singlelorems  h2 {
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 53px;
+  color: #C9AC8C;
+  margin-bottom: 20px;
+}
+.singlelorems p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 144.4%;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 30px;
+}
+.vector span {
+  width: 100px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #C9AC8C;
+}
+.vector span img {
+  margin-right: 10px;
+}
+.vector p {
+  margin-top: 10px;
+  margin-bottom: 50px;
+  width: 362.67px;
+  font-family: 'Steinbeck';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.asarlari {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+}
+.asarlari h2 {
+  font-family: 'Rotterburg Stylish FREE';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 31px;
+  line-height: 34px;
+  text-align: center;
+  color: #C9AC8C;
+}
+.asarlari a {
+  font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+color: #FFFFFF;
+}
+.single-list {
+  width: 800px;
+display: flex;
+justify-content: space-between;
+}
+.single-list li {
+  width: 164.15px;
+  height: 246.23px;
+  border-radius: 15px;
+  overflow: hidden;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.single-list h4 {
+  margin-top: 14px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #C9AC8C;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
